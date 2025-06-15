@@ -8,7 +8,7 @@
 
 ## 🧠 About Us
 
-CrackTech Limited is a leading EdTech company revolutionizing competitive exam preparation in Bangladesh since 2016. Guided by our motto _"Innovation, not Imitation"_, we deliver high-quality virtual exam platforms, study tools, and expert-guided learning experiences for millions of students and job seekers.
+CrackTech Limited is a leading Tech company revolutionizing competitive exam preparation in Bangladesh since 2016. Guided by our motto _"Ingenuity is the key to excellence!"_, we deliver high-quality virtual exam platforms, study tools, and expert-guided learning experiences for millions of students and job seekers.
 
 ---
 
@@ -33,7 +33,7 @@ A virtual exam center with live MCQs, video classes, PDFs, and real-time analyti
 
 ---
 
-### 🩺 [Medical Higher Study™](https://play.google.com/store/apps/details?id=com.medicalhigherstudy)
+### 🩺 [Medical Higher Study™](https://play.google.com/store/apps/details?id=com.livemcq.medical)
 > **For FCPS, MD/MS, and Diploma Aspirants**
 
 - Exclusive for medical graduates and professionals
@@ -42,7 +42,7 @@ A virtual exam center with live MCQs, video classes, PDFs, and real-time analyti
 
 ---
 
-### 🎓 [Live Admissions™](https://www.livemcq.com/link/package)
+### 🎓 [Live Admissions™](https://play.google.com/store/apps/details?id=com.liveadmissions.app)
 > **University Admission Preparation Hub**
 
 - For HSC/equivalent graduates
@@ -60,14 +60,6 @@ A virtual exam center with live MCQs, video classes, PDFs, and real-time analyti
 
 ---
 
-## 📊 Performance Highlights
-
-- 📈 180K–220K Monthly Active Users on Live MCQ
-- ⚡️ 30K+ Questions Served Daily
-- 🧪 Real-Time Analytics and Smart Preparation Tools
-
----
-
 ## 🤝 Work With Us
 
 We're always on the lookout for passionate professionals in:
@@ -78,14 +70,14 @@ We're always on the lookout for passionate professionals in:
 - Content Development
 - Digital Marketing
 
-📧 careers@cracktechbd.com
+📧 contact@cracktech.org
 
 ---
 
 ## 📫 Contact
 
-- 🌐 Website: [https://www.livemcq.com](https://www.livemcq.com)
-- 📧 Email: info@cracktechbd.com
+- 🌐 Website: [https://cracktech.org](https://cracktech.org)
+- 📧 Email: contact@cracktech.org
 - 📍 Cumilla & Dhaka, Bangladesh
 
 ---
